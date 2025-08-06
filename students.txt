@@ -1,0 +1,3 @@
+Name:LAXMI,course:BCA
+Name:DANU,course:BCA
+Name:MAMATA,course:BCA
